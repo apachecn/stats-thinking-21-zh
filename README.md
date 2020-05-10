@@ -1,4 +1,4 @@
-# 21 世纪的统计思维
+# 斯坦福 Stats60 21 世纪的统计思维
 
 > 原文：[Statistical Thinking for the 21st Century](http://statsthinking21.org/)
 > 
