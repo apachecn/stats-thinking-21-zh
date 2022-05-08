@@ -148,15 +148,13 @@
 
 需要校对：
 
-+   语法
++   部分语法
 +   专业词汇
 +   格式
 
 译文在`docs`目录下，原文请见 [Statistical Thinking for the 21st Century](http://statsthinking21.org/)。
 
-可以合理利用翻译引擎（例如[谷歌](https://translate.google.cn/)），但一定要把它变得可读！
-
-如果遇到格式问题，请随手把它改正。
+请见[校对活动参与手册](https://github.com/apachecn/home/blob/master/docs/translate/joining-guide.md)来提交效率。
 
 **注意**：不要修改译文的文件名，因为它们和章节对应！
 
