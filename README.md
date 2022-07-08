@@ -1,6 +1,6 @@
 # 斯坦福 Stats60 21 世纪的统计思维
 
-> 原文：[Statistical Thinking for the 21st Century](http://statsthinking21.org/)
+> 原文：[Statistical Thinking for the 21st Century](https://statsthinking21.github.io/statsthinking21-core-site/)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
